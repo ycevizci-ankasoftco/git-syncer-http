@@ -1,1 +1,1 @@
-# git-syncer
+# git-syncer project
