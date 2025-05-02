@@ -56,3 +56,5 @@ func main() {
 		time.Sleep(config.PollInterval)
 	}
 }
+
+//test
