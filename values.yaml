@@ -1,3 +1,6 @@
 deploy:
   image:
-    tag: adasdasda
+    tag: 1
+migration:
+  image:
+    tag: 1
