@@ -1,6 +1,6 @@
 deploy:
   image:
-    tag: 1
+    tag: 3
 migration:
   image:
-    tag: 1
+    tag: 3
