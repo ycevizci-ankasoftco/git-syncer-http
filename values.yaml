@@ -1,0 +1,3 @@
+deploy:
+  image:
+    tag: 1312312
