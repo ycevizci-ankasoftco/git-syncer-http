@@ -1,6 +1,0 @@
-deploy:
-  image:
-    tag: "1"
-migration:
-  image:
-    tag: "1"
